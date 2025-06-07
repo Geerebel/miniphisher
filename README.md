@@ -4,7 +4,7 @@
 
 A simple phishing tool using PHP and Ngrok to simulate social media login pages and capture credentials for educational analysis and security awareness.
 
-SORRY FOR THE CREDENTIAL LOGS JUST GO TO CREDS.TXT THEN REMOVE EVERYTHING INSIDE
+SORRY FOR THE CREDENTIAL LOGS JUST GO TO CREDS.TXT THEN REMOVE EVERYTHING INSIDE FOR EACH WEBSITE FILE.
 
 ---
 
