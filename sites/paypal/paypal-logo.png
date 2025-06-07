@@ -1,0 +1,7 @@
+base64 -d > sites/paypal/paypal-logo.png <<EOF
+iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAYAAAAd4W2pAAAACXBIWXMAAA7EAAAOxAGVKw4bAAA
+...
+(most of the base64 goes here, too big to paste fully here)
+...
+EOF
+
