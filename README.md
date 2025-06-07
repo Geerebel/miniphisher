@@ -19,7 +19,7 @@ A simple phishing tool using PHP and Ngrok to simulate social media login pages 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/miniphisher.git
+git clone https://github.com/Geerebel/miniphisher.git
 
 # Navigate into the directory
 cd miniphisher
